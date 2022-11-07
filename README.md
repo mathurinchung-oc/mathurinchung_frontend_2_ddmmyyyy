@@ -17,7 +17,7 @@ Sarah vous envoie un e-mail pour vous présenter l’avancée du projet.
 > À : Vous  
 > Objet : Maquettes site Booki
 >
-> :paperclip: Pièces jointes :
+> :paperclip: Pièces jointes :  
 > [Maquettes du site Booki](https://www.figma.com/file/aen32jonHhD7JnIEL2b3sE/Projet-2-FR---Booki?node-id=349%3A1)  
 > [Images du site de Booki](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/DWP_P3+HTML+CSS+Booki/Images+Booki.zip)  
 > [Note de synthèse pour intégration du site Booki](docs/summary.pdf)
