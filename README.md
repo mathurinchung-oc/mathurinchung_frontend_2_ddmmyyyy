@@ -13,11 +13,11 @@ Sarah vous envoie un e-mail pour vous présenter l’avancée du projet.
 >
 > :envelope:
 >
-> De : Sarah  
-> À : Vous  
-> Objet : Maquettes site Booki
+> **De** : Sarah  
+> **À** : Vous  
+> **Objet** : Maquettes site Booki
 >
-> :paperclip: Pièces jointes :  
+> :paperclip: **Pièces jointes** :  
 > [Maquettes du site Booki](https://www.figma.com/file/aen32jonHhD7JnIEL2b3sE/Projet-2-FR---Booki?node-id=349%3A1)  
 > [Images du site de Booki](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/DWP_P3+HTML+CSS+Booki/Images+Booki.zip)  
 > [Note de synthèse pour intégration du site Booki](docs/summary.pdf)
@@ -32,9 +32,9 @@ Sarah vous envoie un e-mail pour vous présenter l’avancée du projet.
 >
 > Pour que nous puissions consulter le site une fois fini, il faudra que tu crées un dossier, compressé au format ZIP, avec :
 >
-> * un fichier “index.html” contenant l’ensemble du code HTML du projet ;
-> * un dossier “CSS” comprenant un fichier “style.css” contenant l’ensemble du code CSS du projet ;
-> * un dossier “images” contenant l’ensemble des images utilisées.
+> * un fichier “index.html” contenant l’ensemble du **code HTML** du projet ;
+> * un dossier “CSS” comprenant un fichier “index.css” contenant l’ensemble du **code CSS** du projet ;
+> * un dossier **“images”** contenant l’ensemble des images utilisées.
 >
 >
 > Bon courage pour ce projet, et bonne journée !
